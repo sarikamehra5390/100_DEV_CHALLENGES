@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+.add_bag {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.corner {
+    height : 400px ;
+    width: 80px;
+    background-color: rgb(240, 233, 233);
+    
+}
+
+.middle {
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+    background-image: url(shirt.jpg);
+    background-size: cover;
+}
+
+.text {
+    height: 400px;
+    width: 300px;
+    background-color: rgb(240, 233, 233);
+    margin-left: 20px;
+}
+
+.size {
+    display: flex;
+   
+}
+.div {
+    height: 20px;
+    width: 30px;
+    background-color: whitesmoke;
+    justify-self: center;
+}
+
+.button {
+    height: 30px;
+    width: 280px;
+    border: 2px transparent solid;
+    border-radius:5px ;
+    background-color: rgb(63, 181, 236);
+    color: white;
+    font-family: "Playfair Display", serif;
+    
+}
+
+.p1{
+    color: rgb(23, 163, 228);;
+    font-family: "Playfair Display", serif;
+    margin-top: 5px;
+    margin-left: 2px;
+    font-size: 13px;
+
+}
+
+.p2{
+    color: black;
+    font-family: "Kanit", sans-serif;
+    font-size: 20px;
+    font-weight: 550;
+    margin-top: 20px;
+
+
+}
+
+.p3{
+    
+}
